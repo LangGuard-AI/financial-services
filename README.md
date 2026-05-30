@@ -20,6 +20,8 @@ These are the blueprints for building those layers.
 
 ---
 
+> *These blueprints are living documents. We are building and refining them in the open. Contributions and corrections welcome — open an issue or submit a PR.*
+
 ## Agent blueprints
 
 | Agent template | Blueprint | Status |
@@ -31,6 +33,7 @@ These are the blueprints for building those layers.
 | Valuation Reviewer | valuation-reviewer/blueprint.md | 🔜 Coming soon |
 
 ---
+
 
 ## Tools referenced in these blueprints
 
